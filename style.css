@@ -120,7 +120,7 @@
 	div.explanation 				{ color:#fff; padding:5%; }
 	div.participation 				{ background:rgba(234,46,73,0.9); color:#fff; padding:5%; border-radius: 30%; }
 	div.benefits 					{ background:rgba(255,255,255,0.9); margin-top:10%; padding:5%; border-radius: 50px 0px 0px 10px; }
-	div.requirements 				{ background:rgba(255,255,255,0.9); padding:5%; border-radius: 120px 10px 50px 0px; width: 50%; }
+	div.requirements 				{ background:rgba(255,255,255,0.9); padding:5%; border-radius: 120px 10px 50px 0px; }
 
 	/* ---------------------------------------------------------------------------------------------------------- 
 	04 Media queries (using a mobile-first approach) ------------------------------------------------------------
